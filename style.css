@@ -1,0 +1,19 @@
+.top-container{
+    background-color: #272727;
+}
+.profile-img {
+  height: 150px;
+  border-radius: 50%;
+}
+.gif{
+  border-radius: 50%;
+}
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 1rem;
+}
+.border-bottom{
+  display: flex;
+  justify-content: center;
+}
